@@ -17,11 +17,14 @@ This is the summary dataframe after replacing the scores from 9th graders:
 - How does replacing the ninth-grade scores affect the following:
   - Math and reading scores by grade
   Math and reading averages from 9th graders went up. 
-  MATH SCORES
-  ![math scores](https://user-images.githubusercontent.com/104812189/181671696-279631aa-1f43-41e9-ad9b-38c4344ced66.PNG)
+ 
+ MATH SCORES
+ 
+ ![math scores](https://user-images.githubusercontent.com/104812189/181671696-279631aa-1f43-41e9-ad9b-38c4344ced66.PNG)
 
-  READING SCORES
-  ![reading scores](https://user-images.githubusercontent.com/104812189/181671707-4e428700-ed8b-4585-8eb3-8b8204393099.PNG)
+ READING SCORES
+ 
+ ![reading scores](https://user-images.githubusercontent.com/104812189/181671707-4e428700-ed8b-4585-8eb3-8b8204393099.PNG)
 
   - Scores by school spending
   - Scores by school size
